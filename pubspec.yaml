@@ -34,8 +34,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  dotup_flutter_wear:
-    git: https://github.com/dotupNET/dotup_flutter_wear.git
+  dotup_flutter_wear: ^1.0.2
 
 dev_dependencies:
   flutter_test:

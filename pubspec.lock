@@ -53,11 +53,9 @@ packages:
   dotup_flutter_wear:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "8d1a48e8cd7a1654e9d886d9cae251a2abfcbc1a"
-      url: "https://github.com/dotupNET/dotup_flutter_wear.git"
-    source: git
+      name: dotup_flutter_wear
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "1.0.2"
   fake_async:
     dependency: transitive
